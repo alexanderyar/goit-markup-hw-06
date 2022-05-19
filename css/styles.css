@@ -1052,7 +1052,7 @@ input:focus + .form-svg {
     padding-left: 39px;
     /* align-items:center; */
 
-    outline: 2px solid tomato;
+    /* outline: 2px solid tomato; */
 
     position:relative;
 
