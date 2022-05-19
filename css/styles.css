@@ -1101,7 +1101,7 @@ input:focus + .form-svg {
 
 
 .checkbox:checked ~ .square-uncheked {
-background-image: url('/images/icon-check.svg');
+background-image: url('./images/icon-check.svg');
 background-size: contain;
 background-origin:border-box;
 border:transparent;
