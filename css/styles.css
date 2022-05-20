@@ -435,9 +435,7 @@ text-transform: uppercase;
     display: flex;
     }
 
-.bg-box {
-   
- }
+
 
 .team-icon + .team-icon {
     margin-left: 10px;
@@ -723,9 +721,6 @@ align-items: center;}
 }
 
 
-.address-block {
-    /* outline: 1px solid tomato; */
-}
 
 
  /* from here starting adding additional styles for portfolio.html */
